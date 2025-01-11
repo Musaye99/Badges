@@ -1,0 +1,40 @@
+header {
+color: #000;
+font-family: "Permanent Marker";
+font-size: 44.1px;
+font-style: normal;
+font-weight: 400;
+line-height: 63px;
+margin-top: 100px;
+text-align: center;
+}
+
+.badge{
+  display: inline-flex;
+  padding: 2px 12px;
+  justify-content: center;
+  align-items: center;
+  border: 4px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 16px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+.square-badge{
+  border-radius: 4px;
+}
+
+.pill-badge{
+  border-radius: 20px;
+}
+
+.badge-container {
+color: #5E5D5D;
+font-family: "Permanent Marker";
+font-size: 20px;
+font-style: normal;
+margin-left: 10px;
+font-weight: 400;
+}
